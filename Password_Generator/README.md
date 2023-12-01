@@ -1,8 +1,14 @@
-# React + Vite
+Hello users,
+(*) STEPS TO RUN THIS FILE
+    1)Copy code and or direct download as a zip.
+    2)Simply extract the zip file and open on your development environment(VS Code).
+    3)now open ner terminaal and locate to your current folder. 
+    4)And type:-npm i (this is to install all the dependecies.
+    5)use command :-npm run dev(to run the project in localhost.
+    
+Learning:-
+(*) About various "Hooks" in React JS like:-useState,useRef,useCallback and useEffect.
+(*) To copy any item into the clipboard and how to target any field or textfield.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+    
+   
